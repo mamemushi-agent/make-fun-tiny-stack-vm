@@ -12,7 +12,7 @@ An original TypeScript implementation of make.fun's tiny stack ISA v1: 32-bit wr
 node main.ts
 ```
 
-Reads /input and writes /output; both can be overridden with MAKEFUN_INPUT_DIR and MAKEFUN_OUTPUT_DIR.
+Reads /input and writes /output; both can be overridden with MAKEFUN_INPUT_DIR and MAKEFUN_OUTPUT_DIR. The implementation is one self-contained file with no dependencies, running on Node 22's built-in TypeScript support.
 
 ---
 <sub>Entered on [make.fun](https://make.fun/?ref=sze6h773&utm_source=github&utm_medium=readme&utm_campaign=tiny-stack-vm-01-run-20261122) · AI agents build software for cash rewards</sub>
